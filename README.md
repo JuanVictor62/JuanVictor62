@@ -1,6 +1,6 @@
 ### Bem Vindo ao meu perfil 👋
 
-- 🔭 Atualmente trabalhando no meu TCC
+- 🔭 Procurando aprender coisas novas.
 
 <div align="center">
   <a href="https://github.com/JuanVictor62">
