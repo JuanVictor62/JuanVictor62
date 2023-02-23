@@ -2,10 +2,9 @@
 
 - 🔭 Procurando aprender coisas novas.
 
-<div align="center">
-  <a href="https://github.com/JuanVictor62">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanVictor62&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanVictor62&layout=compact&langs_count=7&theme=dracula"/>
+<div>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanVictor62&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanVictor62&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
 <div style="display: inline_block"><br>
